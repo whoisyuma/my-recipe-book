@@ -62,6 +62,7 @@ npm run tailwind:watch
 
 ## 公開サイト
 こちらからデプロイ後のサイトをご覧いただけます：
+[my-recipe-book-smoky.vercel.app](my-recipe-book-smoky.vercel.app)
 
 ## デザイン
 
@@ -147,7 +148,7 @@ npm run tailwind:watch
 ## Live Site
 
 You can view the deployed site here:  
-[https://my-mini-ec-site.vercel.app/](https://my-mini-ec-site.vercel.app/)
+[my-recipe-book-smoky.vercel.app](my-recipe-book-smoky.vercel.app)
 
 ## Design Previews
 
