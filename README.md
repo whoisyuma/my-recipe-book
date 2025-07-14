@@ -9,11 +9,11 @@
 
 ## 使用技術
 
-- フレームワーク：Next.js(App Router)
-- 認証：Supabase Auth
-- データベース：Supabase
-- 言語：Typescript
-- スタイル：Tailwind CSS
+- **フレームワーク：** Next.js(App Router)
+- **認証：** Supabase Auth
+- **データベース：** Supabase
+- **言語：** Typescript
+- **スタイル：** Tailwind CSS
 
 ## 主な機能
 
@@ -62,7 +62,7 @@ npm run tailwind:watch
 
 ## 公開サイト
 こちらからデプロイ後のサイトをご覧いただけます：
-[my-recipe-book-smoky.vercel.app](my-recipe-book-smoky.vercel.app)
+[https://my-recipe-book-o2hhm1hov-yumas-projects-82747b24.vercel.app](https://my-recipe-book-o2hhm1hov-yumas-projects-82747b24.vercel.app)
 
 ## デザイン
 
@@ -148,7 +148,7 @@ npm run tailwind:watch
 ## Live Site
 
 You can view the deployed site here:  
-[my-recipe-book-smoky.vercel.app](my-recipe-book-smoky.vercel.app)
+[https://my-recipe-book-o2hhm1hov-yumas-projects-82747b24.vercel.app](https://my-recipe-book-o2hhm1hov-yumas-projects-82747b24.vercel.app)
 
 ## Design Previews
 
