@@ -62,7 +62,7 @@ npm run tailwind:watch
 
 ## 公開サイト
 こちらからデプロイ後のサイトをご覧いただけます：
-[https://my-recipe-book-o2hhm1hov-yumas-projects-82747b24.vercel.app](https://my-recipe-book-o2hhm1hov-yumas-projects-82747b24.vercel.app)
+[https://my-recipe-book-smoky.vercel.app/](https://my-recipe-book-smoky.vercel.app/)
 
 ## デザイン
 
@@ -148,7 +148,7 @@ npm run tailwind:watch
 ## Live Site
 
 You can view the deployed site here:  
-[https://my-recipe-book-o2hhm1hov-yumas-projects-82747b24.vercel.app](https://my-recipe-book-o2hhm1hov-yumas-projects-82747b24.vercel.app)
+[https://my-recipe-book-smoky.vercel.app/](https://my-recipe-book-smoky.vercel.app/)
 
 ## Design Previews
 
